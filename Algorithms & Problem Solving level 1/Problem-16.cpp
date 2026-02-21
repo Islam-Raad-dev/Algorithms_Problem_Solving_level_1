@@ -5,7 +5,7 @@ using namespace std;
 
 
 void ReadNumbers(float& A, float& D)
-{
+{                   
  
     cout << "Please enter rectangle side A: " << endl;
     cin >> A;
