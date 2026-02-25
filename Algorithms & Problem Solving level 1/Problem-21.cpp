@@ -1,7 +1,7 @@
 #include <iostream>   
 #include <string>    
  
-using namespace std;  // Use the standard namespace to avoid prefixing std:: to standard functions.
+using namespace std;  
 
 // Function: ReadCircumference
 // Purpose: Prompts the user to enter the circumference of a circle and reads it from input.
