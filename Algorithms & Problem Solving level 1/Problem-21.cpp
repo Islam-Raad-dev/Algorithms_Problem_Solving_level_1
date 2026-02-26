@@ -3,9 +3,7 @@
  
 using namespace std;  
 
-// Function: ReadCircumference
-// Purpose: Prompts the user to enter the circumference of a circle and reads it from input.
-// Returns: The entered circumference as a float.
+
 float ReadCircumference()
 {
     float L;  // Variable to store the user's input.
