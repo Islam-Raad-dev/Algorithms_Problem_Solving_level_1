@@ -6,9 +6,9 @@ using namespace std;
 
 float ReadCircumference()
 {
-    float L;  // Variable to store the user's input.
+    float L;  
 
-    // Prompt the user to enter the circle's circumference.
+  
     cout << "Please enter Circumference? \n";
     cin >> L;
 
