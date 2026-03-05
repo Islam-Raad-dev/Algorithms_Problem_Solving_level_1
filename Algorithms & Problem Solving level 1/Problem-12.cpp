@@ -2,7 +2,7 @@
 #include <string>   
  
 using namespace std; 
-
+                   
 void ReadNumbers(int& Num1, int& Num2)
 {
   
