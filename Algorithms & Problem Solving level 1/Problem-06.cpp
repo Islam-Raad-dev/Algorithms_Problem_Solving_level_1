@@ -14,7 +14,7 @@ stInfo ReadInfo()
     stInfo Info;  
 
   
-    cout << "Please Enter Your First Name?" << endl;
+    cout << "Please Enter Your First Name: " << endl;
     cin >> Info.FirstName;
 
   
