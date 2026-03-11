@@ -9,7 +9,7 @@ string ReadName()
     string Name;
 
 
-    cout << "Please enter your name? " << endl;
+    cout << "Please enter your Name: " << endl;
 
    
     getline(cin, Name);
