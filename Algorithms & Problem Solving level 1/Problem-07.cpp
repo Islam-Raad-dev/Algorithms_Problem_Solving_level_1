@@ -9,7 +9,7 @@ int ReadNumber()
     int Num; 
 
 
-    cout << "Please enter a number? " << endl;
+    cout << "Please enter a Number: " << endl;
 
     cin >> Num;  
 
