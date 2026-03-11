@@ -12,7 +12,7 @@ int ReadMark()
     int Mark; 
 
 
-    cout << "Please enter your mark? " << endl;
+    cout << "Please enter your Mark; " << endl;
 
     cin >> Mark; 
 
