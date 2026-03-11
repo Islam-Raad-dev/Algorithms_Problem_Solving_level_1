@@ -7,15 +7,15 @@ using namespace std;
 void ReadNumbers(int &Num1, int &Num2, int &Num3)
 {
    
-    cout << "Please enter your Number 1 ? " << endl;
+    cout << "Please enter your Number 1 : " << endl;
     cin >> Num1;
 
 
-    cout << "Please enter your Number 2 ? " << endl;
+    cout << "Please enter your Number 2 : " << endl;
     cin >> Num2;
     
  
-    cout << "Please enter your Number 3 ? " << endl;
+    cout << "Please enter your Number 3 : " << endl;
     cin >> Num3;
 }
 
