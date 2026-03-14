@@ -26,7 +26,7 @@ float CalculateHalfNumber(int Num)
 void PrintResults(int Num)
 {
    
-    string Result = "Half of " + to_string(Num) + " is " + to_string(CalculateHalfNumber(Num));
+    string Result = "Half Of " + to_string(Num) + " is " + to_string(CalculateHalfNumber(Num));
     cout << endl << Result << endl;
 }
 
