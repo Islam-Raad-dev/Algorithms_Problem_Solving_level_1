@@ -5,7 +5,7 @@ using namespace std;
 struct stInfo 
 {
     int Age;       
-    bool HasDrivingLicense; 
+    bool HasDrivingLicense;  
     bool HasRecommendation;   
 };
 
