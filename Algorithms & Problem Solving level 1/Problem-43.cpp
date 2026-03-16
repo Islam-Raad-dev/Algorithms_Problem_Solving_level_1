@@ -1,4 +1,4 @@
-#include <iostream>   // Include iostream for input/output operations.
+#include <iostream>   
 #include <string>    
 #include <cmath>      // Include cmath to use floor() for calculations.
 
