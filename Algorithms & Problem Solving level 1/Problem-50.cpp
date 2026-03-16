@@ -1,5 +1,5 @@
 #include <iostream>   
-using namespace std;  // Use the standard namespace to avoid prefixing std:: to standard functions.
+using namespace std;  
 
 // Function: ReadPinCode
 // Purpose: Prompts the user to enter a PIN code and reads it from input.
