@@ -10,7 +10,7 @@ using namespace std;  // Use the standard namespace to avoid prefixing std:: to 
 // Returns: A positive float entered by the us er.
 float ReadPositiveNumber(string Message)
 {
-    float Number = 0;  // Variable to store the user's input.
+    float Number = 0;  // Variable to store the user's input. 
 
     // Keep prompting the user until a positive number (> 0) is entered.
     do
