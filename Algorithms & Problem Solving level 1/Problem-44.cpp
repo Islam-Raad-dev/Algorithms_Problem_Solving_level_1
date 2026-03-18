@@ -1,7 +1,7 @@
 #include <iostream>   
 #include <string>     
 
-using namespace std;  
+using namespace std;   
 
 // Enum: enDayOfWeek
 // Purpose: Represents the days of the week with corresponding numerical values.
