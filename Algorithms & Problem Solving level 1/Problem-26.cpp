@@ -11,7 +11,7 @@ int ReadNumber()
     int Number;  // Variable to store the user's input.
 
     // Prompt the user to enter a number.
-    cout << "Please enter a number? " << endl;
+    cout << "Please enter a number? " << endl; 
     cin >> Number;
 
     return Number;  // Return the entered number.
