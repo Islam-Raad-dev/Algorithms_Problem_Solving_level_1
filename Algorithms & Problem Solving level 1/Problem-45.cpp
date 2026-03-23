@@ -1,7 +1,7 @@
 #include <iostream>   // Include iostream for input/output operations.
 #include <string>     
 
-using namespace std; 
+using namespace std;  
 
 // Enum: enMonthOfYear 
 // Purpose: Represents the months of the year with corresponding numerical values.
