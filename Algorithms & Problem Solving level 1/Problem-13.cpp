@@ -40,7 +40,7 @@ int MaxOf3Numbers(int A, int B, int C)
 void PrintResults(int Max)
 {
 
-    cout << "\n The Maximum Number is: " << Max << endl;
+    cout << "\n\n The Maximum Number is: " << Max << endl;
 }
 
 
